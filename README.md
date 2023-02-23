@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elmirgarayev
-- 👀 I’m interested in Embedded systems. I now C language.
+- 👀 I’m interested in Embedded systems. I know C language.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me elmirgarayev96@gmail.com
