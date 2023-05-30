@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elmirgarayev
 - 👀 I’m interested in Embedded systems. I know C language.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, Linux and etc. I love learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me elmirgarayev96@gmail.com
 
